@@ -1,0 +1,23 @@
+body {
+  background: #eee;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  padding: 20px;
+  outline: 2px solid black;
+  margin: 8px;
+}
+
+ul {
+  outline: 2px solid black;
+  outline-style:double;
+  margin: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+li {
+  padding: 10px;
+  border: #000000 2px;
+}
